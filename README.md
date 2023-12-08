@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/JAVA-#FF9E0F?style=flat-square&logo=JAVA&logoColor=white"/>
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저네임)](https://solved.ac/유저네임)
 
