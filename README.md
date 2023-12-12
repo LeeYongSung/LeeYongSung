@@ -1,4 +1,5 @@
-
+# SNS
+<a href="https://leeelijah.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=black"/></a>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저네임)](https://solved.ac/유저네임)
 <p>
